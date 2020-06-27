@@ -1,6 +1,6 @@
-# Hoplon | Desenvolvedor Web Backend
+# hoplon-collection
 
-Solução apresentada para [Hoplon | Desenvolvedor Web Backend](challenge.md).
+Solução para o [desafio](challenge.md).
 
 ## Requisitos
 
@@ -27,4 +27,5 @@ $ ./vendor/bin/phpunit --testdox tests
 
 ## Autor
 
-[Willy Stadnick](willy.stadnick@gmail.com)
+| [<img src="https://avatars2.githubusercontent.com/u/1824706?s=120&v=4" width=120><br><sub>@willystadnick</sub>](https://github.com/willystadnick) |
+| :---: |

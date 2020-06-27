@@ -1,4 +1,4 @@
-# Hoplon | Desenvolvedor Web Backend
+# Desenvolvedor Web Backend
 
 ## Aplicação para a Vaga
 
